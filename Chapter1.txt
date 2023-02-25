@@ -1,0 +1,2 @@
+1. Menambahkan File:
+Caranya dengan klik add files -> create new files, lalu beri nama dan extensi file yang ingin ditambahkan.
