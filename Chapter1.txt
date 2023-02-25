@@ -1,2 +1,5 @@
 1. Menambahkan File:
 Caranya dengan klik add files -> create new files, lalu beri nama dan extensi file yang ingin ditambahkan.
+
+2. Mengubah File: 
+Caranya dengan klik file yang ingin diubah, lalu klik logo pensil.
