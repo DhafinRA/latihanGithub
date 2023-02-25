@@ -7,3 +7,6 @@ Caranya dengan klik add files -> create new files, lalu beri nama dan extensi fi
 
 3. Melihat Perubahan yang ada di file:
 Pilih file, lalu klik history.
+
+4. Melihat perubahan pada file secara visual:
+Ke Menu Utama repo, klik insight -> network.
